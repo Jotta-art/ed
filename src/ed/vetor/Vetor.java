@@ -1,3 +1,5 @@
+package ed.vetor;
+
 import java.util.Arrays;
 
 public class Vetor {
